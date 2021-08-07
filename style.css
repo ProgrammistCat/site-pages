@@ -1,0 +1,318 @@
+.png {
+    position: absolute;
+    width: 1900px;
+    left: 0;
+    top: 0;
+    user-select: none;
+
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4));
+}
+
+.menu {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+
+    background: #797979;
+    height: 100px;
+    opacity: 0;
+}
+
+.what-we-do, .about-us, .our-team, .gallery, .contact {
+    position: absolute;
+    top: 1%;
+    bottom: 89%;
+
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 140%;
+    color: #FFFFFF;
+    user-select: none;
+}
+
+.what-we-do {
+    left: 12.5%;
+    right: 82.88%;
+}
+
+.about-us {
+    left: 20.62%;
+    right: 75.88%;
+}
+
+.our-team {
+    left: 27.62%;
+    right: 68.75%;
+}
+
+.gallery {
+    left: 68.75%;
+    right: 28.56%;
+}
+
+.contact {
+    left: 74.94%;
+    right: 22%;
+}
+
+.icon {
+    position: absolute;
+    left: 50%;
+    right: 50%;
+    top: 3%;
+    bottom: 87%;
+    user-select: none;
+}
+
+.lines {
+    position: absolute;
+    left: 86.25%;
+    right: 12.5%;
+    top: 2%;
+    bottom: 88%;
+    user-select: none;
+}
+
+.heading {
+    position: absolute;
+    width: 1100px;
+    height: 164px;
+    left: 390px;
+    top: 460px;
+
+    font-style: normal;
+    font-weight: normal;
+    font-size: 85px;
+    line-height: 140%;
+    text-align: center;
+    color: #FFFFFF;
+    user-select: none;
+}
+
+.subheading {
+    position: absolute;
+    width: 450px;
+    height: 22px;
+    left: 910px;
+    top: 740px;
+
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 140%;
+    color: #FFFFFF;
+}
+
+.heading-two {
+    position: absolute;
+    width: 151px;
+    height: 36px;
+    left: 200px;
+    top: 1160px;
+
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 140%;
+    color: #E72234;
+}
+
+.png-two {
+    position: absolute;
+    width: 300px;
+    height: 200px;
+    left: 800px;
+    top: 1256px;
+}
+
+.subheading-two {
+    position: absolute;
+    width: 160px;
+    height: 25px;
+    left: 1160px;
+    top: 1226px;
+
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 140%;
+    color: #000000;
+}
+
+.text-one {
+    position: absolute;
+    width: 200px;
+    height: 60px;
+    left: 1160px;
+    top: 1291px;
+
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 140%;
+    color: #111111;
+}
+
+.learn-more-one {
+    position: absolute;
+    width: 63px;
+    height: 12px;
+    left: 1160px;
+    top: 1418px;
+
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 100%;
+    letter-spacing: 0.05em;
+    text-transform: lowercase;
+    color: #000000;
+}
+
+.underline {
+    position: absolute;
+    width: 62px;
+    height: 1px;
+    left: 1158px;
+    top: 1460px;
+    background: #000000;
+}
+
+.png-three {
+    position: absolute;
+    width: 300px;
+    height: 200px;
+    left: 800px;
+    top: 1577px;
+}
+
+.png-four {
+    position: absolute;
+    width: 300px;
+    height: 200px;
+    left: 800px;
+    top: 1898px;
+}
+
+.line-gray-one {
+    position: absolute;
+    width: 600px;
+    height: 1px;
+    left: 800px;
+    top: 1516px;
+}
+
+.line-gray-two {
+    position: absolute;
+    width: 600px;
+    height: 1px;
+    left: 800px;
+    top: 1837px;
+}
+
+.subheading-three {
+    position: absolute;
+    width: 136px;
+    height: 25px;
+    left: 1160px;
+    top: 1547px;
+
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 140%;
+    color: #000000;
+}
+
+.subheading-four {
+    position: absolute;
+    width: 153px;
+    height: 25px;
+    left: 1160px;
+    top: 1868px;
+
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 140%;
+    color: #000000;
+}
+
+.text-two {
+    position: absolute;
+    width: 195px;
+    height: 60px;
+    left: 1160px;
+    top: 1612px;
+
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 140%;
+}
+
+.text-three {
+    position: absolute;
+    width: 170px;
+    height: 40px;
+    left: 1160px;
+    top: 1933px;
+
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 140%;
+}
+
+.learn-more-two {
+    position: absolute;
+    width: 63px;
+    height: 12px;
+    left: 1160px;
+    top: 1739px;
+
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 100%;
+    letter-spacing: 0.05em;
+    text-transform: lowercase;
+    color: #000000;
+}
+
+.learn-more-three {
+    position: absolute;
+    width: 63px;
+    height: 12px;
+    left: 1160px;
+    top: 2060px;
+
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 100%;
+    letter-spacing: 0.05em;
+    text-transform: lowercase;
+    color: #000000;
+}
+
+.underline-two {
+    position: absolute;
+    width: 62px;
+    height: 1px;
+    left: 1158px;
+    top: 1781px;
+    background: #000000;
+}
+
+.underline-three {
+    position: absolute;
+    width: 62px;
+    height: 1px;
+    left: 1158px;
+    top: 2102px;
+    background: #000000;
+}
